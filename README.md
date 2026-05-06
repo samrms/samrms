@@ -1,6 +1,6 @@
 ## Samuel Alcântara
 
-**Junior Back-End Developer** focused on learning, building, and improving server-side applications.
+**Back-End Developer** focused on learning, building, and improving server-side applications.
 
 Learning about APIs, databases, and back-end fundamentals.
 
