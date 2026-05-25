@@ -4,7 +4,7 @@
 
 Learning about APIs, databases, and back-end fundamentals.
 
-#### Techs
+#### Stack
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%23007ACC?style=for-the-badge&logo=databricks&logoColor=white)
