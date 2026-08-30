@@ -12,7 +12,7 @@ Backend Engineering · API Design · Databases · Distributed Systems · Softwar
 
 **Languages:** TypeScript · JavaScript · Python · SQL
 
-**Backend:** Node.js · Fastify · FastAPI
+**Backend:** Node.js · Express.js · Fastify · FastAPI
 
 **Databases:** PostgreSQL · Redis
 
