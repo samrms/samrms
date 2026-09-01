@@ -21,4 +21,3 @@ Backend Engineering · API Design · Databases · Distributed Systems · Softwar
 ## Links
 
 * [LinkedIn](https://www.linkedin.com/in/alcntara/)
-* [GitHub](https://github.com/samrms)
