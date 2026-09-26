@@ -17,7 +17,3 @@ Backend Engineering · API Design · Databases · Distributed Systems · Softwar
 **Databases:** PostgreSQL · Redis
 
 **Infrastructure:** Docker · Linux · GitHub Actions
-
-## Links
-
-* [LinkedIn](https://www.linkedin.com/in/alcntara/)
