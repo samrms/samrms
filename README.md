@@ -1,12 +1,10 @@
 # Samuel Alcântara
 
-**Computer Science Student | Backend & Systems & AI**
-
-Building reliable software with a focus on backend engineering, databases, distributed systems, and software architecture.
+**Computer Science Student | AI & Software Engineer**
 
 ## Focus
 
-Backend Engineering · API Design · Databases · Distributed Systems · Software Architecture · Testing · CI/CD
+Software Engineering · AI Engineering · API Design · Software Architecture · Distributed Systems · Databases · Testing · CI/CD · AI Systems
 
 ## Technologies
 
@@ -14,6 +12,12 @@ Backend Engineering · API Design · Databases · Distributed Systems · Softwar
 
 **Backend:** Node.js · Express.js · Fastify · FastAPI
 
+**Architecture:** Hexagonal Architecture · Event-Driven Systems · REST APIs · Object-Oriented Design
+
+**AI:** LLM Applications · AI Agents · RAG · Prompt Engineering · AI Tooling · AI Evaluation
+
 **Databases:** PostgreSQL · Redis
 
-**Infrastructure:** Docker · Linux · GitHub Actions
+**Infrastructure:** Docker · Linux · Git · GitHub Actions
+
+**Engineering:** Automated Testing · Security · Observability · CI/CD · Documentation · Code Quality
